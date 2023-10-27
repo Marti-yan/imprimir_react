@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Dados from './components/Dados'
-import TratamentoDados from './components/TratamentoDados'
+import '../src/assets/style.css'
 
 
 function App() {
